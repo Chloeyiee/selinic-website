@@ -341,10 +341,10 @@ section{
 }
 
 .exp-list div p{
-    margin-bottom: 100px;
     text-align: center;
 }
 .exp-list div i img{
+    margin-bottom : 70px;
     max-width:400px;
     font-size: 200px;
 }
