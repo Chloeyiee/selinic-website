@@ -343,10 +343,10 @@ section{
 
 .exp-list div p{
     text-align: center;
+    margin-top: 70px;
     padding : 10px;
 }
 .exp-list div i img{
-    margin-bottom : 70px;
     max-width:400px;
     font-size: 200px;
 }
