@@ -345,7 +345,6 @@ section{
     text-align: center;
     margin-top: 70px;
     padding : 10px;
-    font-size: 50px;
 }
 .exp-list div i img{
     max-width:400px;
@@ -353,7 +352,7 @@ section{
 }
 
 .exp-list h2{
-    font-size: 50px;
+    font-size: 40px;
     color: #85bcfff7;
     text-align: right;
     margin-bottom: 50px;
