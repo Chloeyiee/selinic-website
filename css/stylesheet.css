@@ -6,8 +6,8 @@
 }
 
 body {
-    color: #ededed;
-    background: #000000;
+    color: #000000;
+    background: #ffffff;
 }
 
 a
@@ -72,7 +72,7 @@ a
     align-items: center;
     padding: 50px 10% 0;
     gap: 1rem;
-    background-color: #000000;
+    background-color: #fffffff;
 }
 
 .home-img img{
